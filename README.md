@@ -4,6 +4,13 @@ KEVlar is an automated CISA Known Exploited Vulnerabilities (KEV) monitor. It st
 
 Designed to be production-friendly & to avoid alert fatigue.
 
+### useful if you want to:
+
+- automate patch SLAs & sync CISA deadlines directly to Jira due dates.
+- filter alert noise, notifying teams only when CVEs match your tech stack.
+- combine EPSS scores and public PoC links automatically to prioritize real risk.
+- speed up IR dispatch, pushing alerts straight to Slack or Teams.
+
 ## Quick start
 
 Requires Python 3.11+.
