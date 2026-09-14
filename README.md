@@ -2,7 +2,7 @@
 
 KEVlar is an automated CISA Known Exploited Vulnerabilities (KEV) monitor. It stores state in SQLite, detects new CISA entries, enriches them with EPSS, NVD CVSS, and public GitHub PoC signals, then sends deduplicated Slack and/or Jira alerts.
 
-Designed to avoid alert fatigue & production-friendly.
+Designed to be production-friendly & to avoid alert fatigue.
 
 ## Quick start
 
